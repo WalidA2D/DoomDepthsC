@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DoomDepthsC"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DoomDepthsC">
+				<Option output="/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/DoomDepthsC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 DoomDepthsC"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DoomDepthsC/fast">
+				<Option output="/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/DoomDepthsC" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 DoomDepthsC/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/walid/Projet/Colab/suite/DoomDepthsC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/Joueur/joueur.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/Joueur/joueur.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/Monstre/generation.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/Monstre/listeBoss.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/Monstre/monstre.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/carte/carte.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/carte/carte.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/carte/listeCarte.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/combat/combat.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/combat/combat.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/equipement/arme.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/equipement/arme.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/equipement/armure.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/equipement/armure.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/equipement/listeArme.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/equipement/listeArmure.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/main.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/sauvegarde/sauvegarde.c">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/sauvegarde/sauvegarde.h">
+			<Option target="DoomDepthsC"/>
+		</Unit>
+		<Unit filename="/home/walid/Projet/Colab/suite/DoomDepthsC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
